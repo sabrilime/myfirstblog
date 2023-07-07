@@ -1,0 +1,4 @@
+mogodb password
+
+login : myblog
+password : 0jySHq8kaCMX1thp
